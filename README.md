@@ -1,6 +1,6 @@
 # How to run an application
 
-## Prerequisite
+## Steps
 
 1. Please download docker from following website
 https://www.docker.com/get-started/
