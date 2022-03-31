@@ -1,0 +1,30 @@
+{
+    "trendData": [
+        {
+            "accountId": 1,
+            "trendAmount": 12,
+            "totalAmount": 243
+        },
+        {
+            "accountId": 2,
+            "trendAmount": -100,
+            "totalAmount": 500
+        },
+        {
+            "accountId": 3,
+            "trendAmount": 0,
+            "totalAmount": 100
+        }
+
+    ],
+    "employees": [
+        {
+            "id": 1, 
+            "name": "Nilkamal Shah"
+        },
+        {
+            "id": 2, 
+            "name": "Aarav Shah"
+        }
+    ]
+}
